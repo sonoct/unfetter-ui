@@ -1,6 +1,6 @@
 # unfetter-ui
 
-unfetter-ui is an Angular 2 rewrite of the cti-stix-ui and unfetter-discover-ui Ember web applications.  
+unfetter-ui is an Angular 4 rewrite of the cti-stix-ui and unfetter-discover-ui Ember web applications.  
 
 # status
 
